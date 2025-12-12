@@ -1,0 +1,16 @@
+-------------------------------------------------------------
+Knight + Armor + Boots + Sword | Attack: 25 | Speed: 11 | Defense: 30
+Knight + Armor + Bow | Attack: 22 | Speed: 8 | Defense: 30
+Knight + Boots + Staff | Attack: 23 | Speed: 13 | Defense: 20
+-------------------------------------------------------------
+Wizard + Armor + Boots + Sword | Attack: 30 | Speed: 13 | Defense: 20
+Wizard + Armor + Bow | Attack: 27 | Speed: 10 | Defense: 20
+Wizard + Boots + Staff | Attack: 28 | Speed: 15 | Defense: 10
+-------------------------------------------------------------
+Archer + Armor + Boots + Sword | Attack: 28 | Speed: 18 | Defense: 18
+Archer + Armor + Bow | Attack: 25 | Speed: 15 | Defense: 18
+Archer + Boots + Staff | Attack: 26 | Speed: 20 | Defense: 8
+-------------------------------------------------------------
+Delete Character: Archer
+Delete Character: Wizard
+Delete Character: Knight
